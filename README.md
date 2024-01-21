@@ -1,13 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=✨Hain-tain's%20Profile✨&fontColor=679460)
 
 ## 👋 Hi there!
-📍 Welcome to my github  
+📍 Welcome to my github and here is my [`blog`](https://velog.io/@hain-tain/posts)
 
-⭐️ I want to become a **Front-end developer**  
+⭐️ I want to become a **Front-end developer** 
 
 🌱 I’m currently learning `Javascript` and `Typescript`  
 
-📫 You can contact me at this email [`hain7ce@gmail.com`](hain7ce@gmail.com)
+📫 You can contact me at this email [`hain7ce@gmail.com`](mailto:hain7ce@gmail.com)
 
 ## 🛠️ Tech Stack
 ### Used as main
